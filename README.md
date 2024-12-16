@@ -114,7 +114,7 @@ LogGen achieves state-of-the-art performance using:
 
 - **Yogesh Hasabe** - [Yogesh31Hasabe](https://github.com/Yogesh31Hasabe)
 - **Jay Patel** - [Jay Patel]()
-- **Ashaka Mehta** - [Ashaka Mehta]()
+- **Ashaka Mehta** - [ashaka11](https://github.com/ashaka11)
 - **Sagar Dama** - [sagar110599](https://github.com/sagar110599)
 
 ---
